@@ -23,5 +23,5 @@ Projeto criado para um desafio técnico de Frontend (Paschoalotto), com foco em 
 - Marvel API
 - GitHub API
 
-## Projeto Figma <a href="https://www.figma.com/design/Ga1WEwWgSHLTJckNAlJF2R/GitMarvel-%E2%80%93-UI-Design?node-id=0-1&t=hSARGy7yFbB2UwB3-1" target="_blank">aqui</a>
+## 🎨 Projeto no Figma <a href="https://www.figma.com/design/Ga1WEwWgSHLTJckNAlJF2R/GitMarvel-%E2%80%93-UI-Design?node-id=0-1&t=hSARGy7yFbB2UwB3-1" target="_blank">aqui</a>
 
