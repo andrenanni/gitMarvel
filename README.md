@@ -1,16 +1,27 @@
-# React + Vite
+# 🚀 GitMarvel
+**Profile + Search Marvel**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hello, world! 👋 O desafio está hospedado <a href="https://git-marvel.vercel.app" target="_blank">aqui</a>
 
-Currently, two official plugins are available:
+Aplicação React com Vite e Tailwind CSS para buscar o perfil de um usuário no GitHub e liberar acesso à página de pesquisa de personagens da Marvel.
+Projeto criado para um desafio técnico de Frontend (Paschoalotto), com foco em consumo de API e responsividade.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Funcionalidades
 
-## React Compiler
+- Busca de usuário no GitHub para acesso à aplicação
+- Visualização de informações do perfil (avatar, nome, localização)
+- Pesquisa de personagens da Marvel usando a API oficial
+- Exibição de imagens, nomes dos personagens
+- Layout responsivo e suporte a Dark Mode
+- Feedback de carregamento e tratamento de erros
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Tecnologias
 
-## Expanding the ESLint configuration
+- React.js
+- Vite
+- Tailwind CSS
+- Marvel API
+- GitHub API
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Projeto Figma <a href="https://www.figma.com/design/Ga1WEwWgSHLTJckNAlJF2R/GitMarvel-%E2%80%93-UI-Design?node-id=0-1&t=hSARGy7yFbB2UwB3-1" target="_blank">aqui</a>
+
